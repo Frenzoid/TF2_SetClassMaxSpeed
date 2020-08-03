@@ -8,6 +8,7 @@
 ## CVars:
 
 cvar name, default value, description.
+% types: 1 = 100% of the total speed, 1.1 = 110% of the total speed, 2 = 200% of the total speed, etc.
 
 -    g_cvSEnabled = CreateConVar("sm_spenabled", "1", "Sets whether the plugin is enabled.");
 
