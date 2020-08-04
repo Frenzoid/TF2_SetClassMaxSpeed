@@ -7,9 +7,12 @@
 
 ## CVars:
 % examples: 
-1.0 = 100% of the total speed.
-1.1 = 110% of the total speed.
-2.0 = 200% of the total speed, etc.
+
+1.0 = 100% of the merc's total speed.
+
+1.1 = 110% of the merc's total speed.
+
+2.0 = 200% of the merc's total speed, etc.
 
 All speed values are Float.
 
