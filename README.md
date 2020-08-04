@@ -15,6 +15,7 @@
 2.0 = 200% of the merc's total speed, etc.
 
 All speed values are Float.
+------
 
 cvar name, default value, description.
 
