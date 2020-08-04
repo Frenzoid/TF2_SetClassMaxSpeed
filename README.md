@@ -43,4 +43,4 @@ cvar name, default value, description.
 ## Current known bugs:
 none
 
-## This plugin is not fully tested, if you find any issues, report it to [ISSUES](https://github.com/Frenzoid/TF2_SetClassHealthRegen/issues) or [send me a private message via Steam](https://steamcommunity.com/id/MrFren/).
+## This plugin is not fully tested, if you find any issues, report it to [ISSUES](https://github.com/Frenzoid/TF2_SetClassMaxSpeed/issues) or [send me a private message via Steam](https://steamcommunity.com/id/MrFren/).
