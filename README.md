@@ -1,6 +1,6 @@
 # TF2 Set Class Max Speed
 
-- This plugin allows to change ones max movement speed.
+- This plugin allows to change each mercs movement speed.
 
 ## How to install.
 - Download this repository (right top green button), and copy `setclassmaxspeed.smx` on your plugins folder.
